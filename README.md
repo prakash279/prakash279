@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakash279
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Web-Development (Front-End)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail(choudhary.prakash27903@gmail.com)
 
