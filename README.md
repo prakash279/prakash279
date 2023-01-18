@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakash279
+- 👋 Hi, I’m @praxash1
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web-Development (Front-End)
 - 💞️ I’m looking to collaborate on ...
