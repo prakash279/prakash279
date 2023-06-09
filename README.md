@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praxash1
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web-Development (Front-End)
+- 🌱 I’m currently learning Machine learning(NLP)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail(choudhary.prakash27903@gmail.com)
 
