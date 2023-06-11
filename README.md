@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @praxash1
 - 🌱 I’m currently learning Machine learning(NLP)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail(choudhary.prakash27903@gmail.com)
 
 <!---
