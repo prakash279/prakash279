@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praxash1
+- 👋 Hi, I’m Prakashchand Choudhary
 - 🌱 I’m currently learning Machine learning(NLP)
 - 📫 How to reach me Mail(choudhary.prakash27903@gmail.com)
 
