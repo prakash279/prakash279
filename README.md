@@ -1,7 +1,7 @@
 import time, hack, eat
 
 while True:
-    "https://siphyshu.github.io".hack()
+    "https://prakash279.github.io".hack()
     time.sleep(8*60*60)
     eat("eW91dHViZS5jb20vd2F0Y2g/dj1paWsyNXdxSXVGbw==")
 
