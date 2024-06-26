@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakashchand Choudhary
-- 🌱 I’m currently learning Machine learning(NLP)
+- 🌱 I’m still learning Machine learning(NLP)
 - 📫 How to reach me Mail(choudhary.prakash27903@gmail.com)
 
 ### 🔝 Top Contributed Repo
