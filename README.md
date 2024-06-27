@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakashchand Choudhary
 - 🌱 I’m still learning Machine learning(NLP)
-- 📫 How to reach me Mail(choudhary.prakash27903@gmail.com)
+- 📫 Linkedin - https://www.linkedin.com/in/prakashchand-choudhary/
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prakash279&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
