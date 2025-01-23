@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prakashchand Choudhary!
-🎓 **B.Tech in Computer Science Engineering** (VIT Bhopal)  
+🎓 **B.Tech in Computer Science Engineering** 
 📍 **Location**: Pune, Maharashtra, India  
 📫 **Contact**: [choudhary.prakash27903@gmail.com](mailto:choudhary.prakash27903@gmail.com) | [GitHub](https://github.com/prakash279) | [LinkedIn](https://www.linkedin.com/in/prakashchand-choudhary/)
 ## 🚀 About Me
